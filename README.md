@@ -2,6 +2,8 @@
 
 Simple [Wikipedia Front Page](http://en.wikipedia.org/wiki/Main_Page) web scraper in Ruby.
 
+<img src="scrape.png">
+
 ### Setup:
 
 1. Run `git clone https://github.com/raichur/wikiscrape.git`
